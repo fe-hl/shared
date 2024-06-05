@@ -1,0 +1,1 @@
+import{_ as s,c as a,o,O as l}from"./chunks/framework.1556d274.js";const A=JSON.parse('{"title":"storage 存储","description":"","frontmatter":{},"headers":[],"relativePath":"pages/storage.md","lastUpdated":1682414660000}'),n={name:"pages/storage.md"},e=l("",19),p=[e];function t(r,c,D,y,F,C){return o(),a("div",null,p)}const g=s(n,[["render",t]]);export{A as __pageData,g as default};
